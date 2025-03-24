@@ -1,4 +1,4 @@
-# 📌 A/B Testing for Business Decision-Making
+# A/B Testing for Business Decision-Making
 By: Chioma Kamalu
 
 ## 📍 Project Overview
